@@ -6,4 +6,4 @@ pkg install git
 pip install bs4
 https://github.com/OmDenay-MB911/spamBRUTAL
 cd spamBRUTAL
-python2 spamBRUTAL.py
+python2 brutal.py
